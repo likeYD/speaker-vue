@@ -1,0 +1,29 @@
+.page-main{
+  text-align: center;
+}
+#input_text{
+  padding: 8px;
+  width: 400px;
+  height: 322px;
+  border: 1px solid #ddd;
+  outline: none;
+  font-size: 15px;
+  line-height: 1.5;
+}
+button{
+  margin-right: 12px;
+  margin-top: 12px;
+  margin-bottom: 16px;
+  width: 100px;
+  height: 36px;
+  background-color: #2277e6;
+  border-radius: 4px;
+  line-height: 36px;
+  text-align: center;
+  color: #fff;
+  font-size: 15px;
+  cursor: pointer;
+}
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
